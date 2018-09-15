@@ -1,0 +1,18 @@
+body { background-image: url(light1.jpg);
+background-repeat: repeat- no-repeat;
+background-size: 100%;
+       font-family: arial, times new-roman;
+       font-size: 100%; }
+h2 {  font-family: arial, times new-roman;
+       font-size: 250%; color:#2ECCFA; }
+	#footer { font-size: .60em;
+          font-style: italic; color:#2ECCFA;}
+h3 {color:#2ECCFA;}
+ul li{color:#2ECCFA;}	   
+p{color:#2ECCFA;}
+
+
+ a:link       { color: #gray; }
+ a:visited { color: #RED; }
+ a:hover     { color: #2ECCFA;
+             }
